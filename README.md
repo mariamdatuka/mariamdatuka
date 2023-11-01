@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mariam Datukishvili</h1>
-<h3 align="center">Full Stack Developer from Georgia</h3>
+<h3 align="center">Front-end Developer from Georgia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariamdatuka&label=Profile%20views&color=3f5427&style=plastic" alt="mariamdatuka" /> </p>
 
